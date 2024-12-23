@@ -24,7 +24,7 @@ body{
     align-items: center;
     flex-direction: column;
     position: relative;
-    left: 300px;
+    left: 150px;
     z-index: 5;
 }
 #time{
@@ -47,6 +47,6 @@ body{
     font-size: 35vw;
     color: black;
     position: relative;
-    right: 450px;
+    right: 300px;
     z-index: 1;
 }
